@@ -1,0 +1,22 @@
+.card-img-overlay{
+    text-align: right;
+    padding: 10%;
+}
+
+.card-group{
+    width: 70%;
+    margin: auto;
+}
+
+.card{
+    padding: 5px;
+}
+
+#apareadas{
+    display:inline-block;
+    width: 50%;
+}
+
+footer{
+    color:white
+}
